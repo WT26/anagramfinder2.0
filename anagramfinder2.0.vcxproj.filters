@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_19.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_20.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_21.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_22.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_23.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_24.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_25.txt" />
+    <Text Include="C:\Users\Alanko\Desktop\AnagFileMaker\anagfilemaker\filesforwordcout\words_26.txt" />
+    <Text Include="words_2.txt" />
+    <Text Include="words_3.txt" />
+    <Text Include="words_4.txt" />
+    <Text Include="words_1.txt" />
+    <Text Include="words_5.txt" />
+    <Text Include="words_6.txt" />
+    <Text Include="words_7.txt" />
+    <Text Include="words_8.txt" />
+    <Text Include="words_9.txt" />
+    <Text Include="words_10.txt" />
+    <Text Include="words_11.txt" />
+    <Text Include="words_12.txt" />
+    <Text Include="words_13.txt" />
+    <Text Include="words_14.txt" />
+    <Text Include="words_15.txt" />
+    <Text Include="words_16.txt" />
+    <Text Include="words_17.txt" />
+    <Text Include="words_18.txt" />
+    <Text Include="words_19.txt" />
+    <Text Include="words_20.txt" />
+    <Text Include="words_21.txt" />
+    <Text Include="words_22.txt" />
+    <Text Include="words_23.txt" />
+    <Text Include="words_24.txt" />
+    <Text Include="words_25.txt" />
+    <Text Include="words_26.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\AnagramFinder\anagramfinder\Project1\FileReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\AnagramFinder\anagramfinder\Project1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\AnagramFinder\anagramfinder\Project1\FileReader.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
