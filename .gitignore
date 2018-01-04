@@ -1,0 +1,15 @@
+*.slo
+
+*.lo
+
+*.o
+
+*.obj
+
+
+*.vcxpro
+*.vcxproj
+*.sln
+*.sdf
+/Debug
+/.vs
